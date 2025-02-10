@@ -1,5 +1,16 @@
 # Ejercicio dado y probabilídad modificada 
 
+### Documentacion del programa previa 
+  Requerimiento de :
+
+- [x] Dar un numero al azar a partir de que exista la variable global y que se verifique apartir del ¨ if ¨
+- [ ] A partir de la pila agregar de manera unica y recursiva el hecho de que se guarden los valores en la pila
+- [ ] Sacar un promedio apartir de la funcion y que lo haga de manera recursiva en cada instancia
+- [ ] testear a partir de las primeras 10 muestras el correcto funcionamiento de la modificacion en la probabilidad de numeros en el programa
+- [ ] poder modificar el tamaño del arreglo para que puedan entrar mas numeros en el arreglo
+
+
+
 
 ``` R
   # Inicializar lista de lanzamientos en el entorno global
