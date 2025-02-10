@@ -1,7 +1,7 @@
 #Ejercicio dado y probabilídad modificada 
 
 
-``
+``` R
   # Inicializar lista de lanzamientos en el entorno global
 if (!exists("lanzamientos", envir = .GlobalEnv)) {
   lanzamientos <<- c()
@@ -36,4 +36,4 @@ for (i in 1:55) {
 }
 
 
-``
+```
