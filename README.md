@@ -1,4 +1,4 @@
-#Ejercicio dado y probabilídad modificada 
+# Ejercicio dado y probabilídad modificada 
 
 
 ``` R
